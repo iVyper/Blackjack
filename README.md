@@ -24,14 +24,14 @@ Blackjack is a command-line card game implemented in Python where you play again
 
 ### How to Run
 
-1. **Download the Code:** Clone the repository or download the `.py` file to your computer.
+1. **Download the Code:** Clone the repository or download the `Blackjack.py` file to your computer.
 
 2. **Open Terminal/Command Prompt:** Navigate to the directory containing the file.
 
 3. **Run the program:** Execute the following command:
 
     ```bash
-    python3 .py
+    python3 Blackjack.py
     ```
 
 4. **Follow the Prompts:**
