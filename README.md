@@ -49,8 +49,8 @@ Blackjack is a command-line card game implemented in Python where you play again
 
 
 ## Demo
-![Blackjack Demo](https://imgur.com/a/1rHrBeD)
-[Blackjack Demo](https://imgur.com/a/1rHrBeD)
+![Blackjack Demo](https://i.imgur.com/IWOna36.gif)
+[Blackjack Demo](https://i.imgur.com/IWOna36.gif)
 
 ## License
 
